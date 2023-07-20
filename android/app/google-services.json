@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "623019587701",
+    "project_id": "gedung-reservasi-7d6a7",
+    "storage_bucket": "gedung-reservasi-7d6a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623019587701:android:0a0b7cbaf28f431c04603c",
+        "android_client_info": {
+          "package_name": "com.booking.hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623019587701-u8c2na4ipqnjgh047lfc9ifm0bnqfmta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.booking.hotel",
+            "certificate_hash": "e52856f5273bde49bbb04528398738d844dffbf9"
+          }
+        },
+        {
+          "client_id": "623019587701-g8k6ob5bcqs8tobrttirp6ructniflu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCStF6nWiYJGxpP3lNBLWo3NXG4f_7zvp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623019587701-g8k6ob5bcqs8tobrttirp6ructniflu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
